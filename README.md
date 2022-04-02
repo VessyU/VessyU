@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... many many things including and not limited to docker/kubernetes/terraform/python and the list goes on....
 - 🌱 I’m currently learning ... many many things including and not limited to the above.
 - 💞️ I’m looking to collaborate on ... anything? 
-- 📫 How to reach me ...
+- 📫 How to reach me ... visit my repl toooooo https://replit.com/@VessyU
 
 <!---
 VessyU/VessyU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
